@@ -1,6 +1,6 @@
 -- explore DATABASE
 
-SELECT * 
+SELECT id, name 
 FROM cities
 -- ORDER BY cities.id
 WHERE state_id =
